@@ -1,18 +1,9 @@
-# tarea_5
+# Serie App
 
 A new Flutter project.
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![ex](https://user-images.githubusercontent.com/77162676/156092517-26babdfa-5ee1-4d11-a3c4-cc3befc4e12e.png)
+![WhatsApp Image 2022-02-28 at 8 23 30 PM](https://user-images.githubusercontent.com/77162676/156092793-cdd99aaf-163f-40f3-9a4e-105b31c952d4.jpeg)
+![WhatsApp Image 2022-02-28 at 8 23 30 PM (1)](https://user-images.githubusercontent.com/77162676/156092802-7ca2d6fc-fe47-4799-a5f5-563ef84a5d6f.jpeg)
+![WhatsApp Image 2022-02-28 at 8 23 30 PM (2)](https://user-images.githubusercontent.com/77162676/156092813-a24019c9-f562-4bd2-a610-f226a72bfcb4.jpeg)
