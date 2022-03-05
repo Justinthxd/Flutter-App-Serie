@@ -1,6 +1,6 @@
 # Serie App
 
-A new Flutter project.
+Flutter project.
 
 ## Images
 
